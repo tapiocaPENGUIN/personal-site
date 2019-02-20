@@ -17,7 +17,9 @@ class InteractiveResume extends React.Component {
                         <li>Java</li>
                         <li>SQL</li>
                         <li>Google Firebase/FireStore</li>
-
+                        <li>Python</li>
+                        <li>Android Studio</li>
+                        <li>Github/Git</li>
                     </ul>
                 </div>
 
@@ -26,13 +28,13 @@ class InteractiveResume extends React.Component {
                 </div>
                 <div className="Job-Info">
                     <h5>CraneIT, LLC</h5>
-                    <h6>IT Support Assistant, 2016 - Present </h6>
+                    <h6><strong><u>IT Support Assistant</u></strong>, 2016 - Present </h6>
                     <p>I help provide a wide variety of IT support to a broad selection of clients.  Whether it is in the offices of accounting firms, or out on the links of a golf course fixing/installing
                         workstations, POS machines, VOIP phones, servers, and wireless access points.
                     </p>
 
                     <h5>St. Charles County Youth Soccer Association</h5>
-                    <h6>Referee, 2011 - Present </h6>
+                    <h6><strong><u>Referee</u></strong>, 2011 - Present </h6>
                     <p>
 
                         As a referee my duties include reviewing and mentoring new referees, defusing conflict with players, coaches, and fans, and managing volative situations efficiently and diplomatically.
