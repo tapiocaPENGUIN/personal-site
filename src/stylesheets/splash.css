@@ -1,0 +1,19 @@
+.splash{
+    height:600px;
+    background: grey;
+    width: 100%;
+    padding-top: 100px;
+}
+.personalIimage{
+    margin-left: auto;
+    marin-top: 50%;
+    margin-right: auto;
+    display: block;
+    height: 275px;
+    width: 275px;
+    border-radius: 100%;
+}
+.splash p {
+    text-align: center;
+    font-size: 35px;
+}
