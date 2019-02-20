@@ -4,12 +4,12 @@
   "private": true,
   "engines": {
     "node": "10.14.2",
-    "npm" : "6.4.1"
-    
+    "npm": "6.4.1"
   },
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
+    "react-mdl": "^1.11.0",
     "react-scripts": "2.1.5"
   },
   "scripts": {

@@ -1,8 +1,9 @@
 .splash{
-    height:600px;
+    height:725px;
     background: grey;
     width: 100%;
     padding-top: 100px;
+
 }
 .personalIimage{
     margin-left: auto;
@@ -16,4 +17,71 @@
 .splash p {
     text-align: center;
     font-size: 35px;
+    padding-top: 100px;
+}
+.Container{
+    padding-top: 50px;
+}
+.Tech-Title{
+    vertical-align: top;
+    width: 50%;
+    display: inline-block;
+}
+.Tech-Title p{
+    font-size: 25px;
+    padding-top: 20px;
+    text-align: center;
+}
+.Tech-Info{
+    vertical-align: top;
+    width: 50%;
+    display: inline-block
+}
+.Tech-Info li {
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.Job-Info{
+    padding-top: 30px;
+    vertical-align: top;
+    width: 50%;
+    display: inline-block
+}
+.Job-Title{
+    padding-top: 30px;
+    vertical-align: top;
+    width: 50%;
+    display: inline-block;
+}
+.Job-Title p{
+    font-size: 25px;
+    padding-top: 20px;
+    text-align: center;
+}
+.Job-Info li {
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.Edu-Info{
+    padding-top: 30px;
+    vertical-align: top;
+    width: 50%;
+    display: inline-block
+}
+.Edu-Title{
+    padding-top: 30px;
+    vertical-align: top;
+    width: 50%;
+    display: inline-block;
+}
+.Edu-Title p{
+    font-size: 25px;
+    padding-top: 20px;
+    text-align: center;
+}
+.Edu-Info li {
+    font-size: 16px;
+    padding-bottom: 10px
 }
