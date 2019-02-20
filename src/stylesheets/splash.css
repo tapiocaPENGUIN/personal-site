@@ -1,8 +1,9 @@
 .splash{
     height:725px;
-    background: grey;
+    background: #505459;
     width: 100%;
     padding-top: 100px;
+    background-opacity: .45;
 
 }
 .personalIimage{
@@ -18,6 +19,7 @@
     text-align: center;
     font-size: 35px;
     padding-top: 100px;
+    color: white;
 }
 .Container{
     padding-top: 50px;
